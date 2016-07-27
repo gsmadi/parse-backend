@@ -1,0 +1,22 @@
+{
+  "name": "parse-backend",
+  "version": "1.0.0",
+  "description": "Backend server to host parse-server and parse-dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Gabriel Smadi",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.14.0",
+    "parse-dashboard": "^1.0.14",
+    "parse-server": "^2.2.14",
+    "path": "^0.12.7"
+  }
+}
