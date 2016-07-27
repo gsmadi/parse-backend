@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/gsmadi/parse-backend.git"
   },
   "author": "Gabriel Smadi",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/gsmadi/parse-backend",
   "dependencies": {
     "express": "^4.14.0",
     "parse-dashboard": "^1.0.14",
